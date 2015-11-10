@@ -29,6 +29,7 @@ public class PointsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+        //Design need to be modified to accomodate latest change in the server
         View rootView = inflater.inflate(R.layout.fragment_points, container, false);
 
         /*ImageView mImgPointsTable = (ImageView) rootView.findViewById(R.id.imgPointsTable);
