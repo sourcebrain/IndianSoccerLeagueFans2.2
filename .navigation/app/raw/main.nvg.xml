@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.sourcebrain.islfans.activity.SplashActivity"/>
+      <point      
+        x = "1740"      
+        y = "184"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.sourcebrain.islfans.activity.ISLHomeActivity"/>
+      <point      
+        x = "460"      
+        y = "244"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textSize="18dp"
+            android:text="Points Table"
+            android:gravity="center"
+            android:layout_span="6"></TextView>
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="#0000FF">
+        <TextView
+            android:id="@+id/TextView11"
+            android:text=""></TextView>
+        <TextView
+            android:id="@+id/TextView04"
+            android:text="PYD"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+        <TextView
+            android:id="@+id/TextView03"
+            android:text="WON"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+        <TextView
+            android:id="@+id/TextView02"
+            android:text="LOSS"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+        <TextView
+            android:id="@+id/TextView01"
+            android:text="DRW"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+        <TextView
+            android:text="PNTS"
+            android:id="@+id/textView1"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+
+        android:layout_width="match_parent"
+        android:background="#0000FF">
+        <TextView
+            android:text="ATK"
+
+            android:textStyle="bold"></TextView>
+        <TextView
+
+            android:text="4"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="0"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="6"
+
+            android:gravity="center_horizontal"></TextView>
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:background="#0000FF">
+        <TextView
+            android:text="KB"
+            android:id="@+id/textView2"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="3"
+            android:id="@+id/textView3"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+            android:id="@+id/textView4"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+            android:id="@+id/textView5"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+            android:id="@+id/textView6"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="4"
+            android:id="@+id/textView7"
+            android:gravity="center_horizontal"></TextView>
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow30"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#0000FF">
+        <TextView
+
+            android:text="CHE"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="4"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="5"
+
+            android:gravity="center_horizontal"></TextView>
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow31"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#0000FF">
+        <TextView
+
+            android:text="CHE"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="4"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="5"
+
+            android:gravity="center_horizontal"></TextView>
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow32"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#0000FF">
+        <TextView
+
+            android:text="CHE"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="4"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="5"
+
+            android:gravity="center_horizontal"></TextView>
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow35"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#0000FF">
+        <TextView
+
+            android:text="CHE"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="4"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="5"
+
+            android:gravity="center_horizontal"></TextView>
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow37"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#0000FF">
+        <TextView
+
+            android:text="CHE"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="4"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="5"
+
+            android:gravity="center_horizontal"></TextView>
+
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#0000FF">
+        <TextView
+
+            android:text="CHE"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:text="4"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="2"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="1"
+
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="5"
+
+            android:gravity="center_horizontal"></TextView>
+
+    </TableRow>
+</TableLayout>
