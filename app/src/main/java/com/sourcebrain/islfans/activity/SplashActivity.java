@@ -11,7 +11,7 @@ import com.sourcebrain.islfans.R;
 public class SplashActivity extends Activity {
 
     private static final int SPLASH_SHOW_TIME = 3000;
-
+    /* This is to test GIT */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
